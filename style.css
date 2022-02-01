@@ -1,0 +1,29 @@
+.full{
+
+    background-color: pink
+    
+}
+.quarter{
+    background-color:red
+    
+}
+
+.half{
+    background-color:aqua
+}
+
+.final{
+    background-color:lightgreen;
+}
+
+.last{
+    background-color:orange;
+}
+
+div{
+    text-align: center;
+    color: white;
+    border: 5px solid white;
+    padding: 2px 2px 2px 2px;
+    height: 100px;
+}
